@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/homeicon"
+        android:iconTint="@color/colorAccent"
+        android:title="Home " />
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/drivericon"
+        android:iconTint="@color/colorAccent"
+        android:title="Drivers " />
+</group>
+
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/share2"
+        android:iconTint="@color/colorAccent"
+        android:title="Share " />
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/about"
+        android:iconTint="@color/colorAccent"
+        android:title="About Us" />
+    <item
+        android:id="@+id/nav_rate"
+        android:icon="@drawable/rate2"
+        android:iconTint="@color/colorAccent"
+        android:title="Rate App" />
+
+    <item
+        android:id="@+id/nav_privacy"
+        android:title="Privacy Policy"
+        android:icon="@drawable/privacy"
+
+        />
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Log Out"
+        android:icon="@drawable/logout"
+        />
+
+</menu>
