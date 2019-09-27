@@ -1,5 +1,5 @@
 # ERikshawDriver
-# Driver side of ERikshaw app
+# Driver side of ERickshaw app
 
- Making Erikshaw app for drivers and students of Panjab University to make riding in PU easier
+ Making Erickshaw app for drivers and students of Panjab University to make riding in PU easier
  
